@@ -1,0 +1,7 @@
+g = ;                                    % m/s^2
+plate =1 * g;                               % N
+nuts = 1;                               % N
+m = plate + (nuts * (0.038 * g));             % kg
+c = 0.5;                                % N/
+k = 34;                                 % N/m
+init = 0.5;                             % m
